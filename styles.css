@@ -122,10 +122,10 @@ p {
 
 #fitzHelps {
   width: 250px;
-  height: 300px;
+  height: 250px;
   float: right;
   border: solid 1px black;
-  border-radius: 50px 175px 50px 175px;
+  border-radius: 75px 75px 75px 75px;
   box-shadow: 5px 5px 5px;
 }
 
