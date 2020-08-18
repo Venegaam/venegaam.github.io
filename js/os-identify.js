@@ -10,7 +10,7 @@ console.log(os_name);
 
 if (os_name == "Android OS" || os_name == "iOS") {
 
-var els = document.getElementById("content").firstChild.nextSibling;
+var els = document.getElementById("mainContent");
 
 console.log(els);
 
