@@ -8,7 +8,7 @@ if (navigator.userAgent.indexOf("like Mac") != -1) os_name = "iOS";
 
 console.log(os_name);
 
-if (os_name == "Android OS" || os_name == "iOS" || os_name == "Windows OS") {
+if (os_name == "Android OS" || os_name == "iOS") {
 
 var els = document.getElementById("content").firstChild.nextSibling;
 
